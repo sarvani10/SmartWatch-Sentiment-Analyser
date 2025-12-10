@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Watch Sentiment Analyzer</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+
+</head>
+<body>
+
+<div class="container">
+
+    <h1>⌚ Watch Sentiment Analyzer</h1>
+
+    <textarea id="reviewText" placeholder="Type customer review here..."></textarea>
+
+    <button id="analyzeBtn">✨ Analyze Sentiment</button>
+
+    <div id="resultBox" class="result-box" style="display:none;">
+        <h2>Results</h2>
+
+        <div class="card">
+            <h3>Classical Model (TF-IDF + Logistic)</h3>
+            <pre id="classicalOutput">--</pre>
+        </div>
+
+        <div class="card">
+            <h3>BERT Transformer</h3>
+            <pre id="bertOutput">--</pre>
+        </div>
+    </div>
+
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>
