@@ -159,3 +159,7 @@ such as Logistic Regression.
 
 ##Contribution:
 -Neelima
+-Sarvani
+-Mahathi
+-Lahari
+-Yashasri
