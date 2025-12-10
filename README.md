@@ -156,3 +156,6 @@ machine learning and Generative AI transformer models for sentiment
 analysis. It highlights how advanced NLP models like BERT outperform
 classical methods while also showing the importance of baseline approaches
 such as Logistic Regression.
+
+##Contribution:
+-Neelima
