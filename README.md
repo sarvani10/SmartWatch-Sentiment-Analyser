@@ -131,12 +131,11 @@ BERT model
 Predicted sentiment is displayed
 
 # Contributors
-
-1.Sarvani Gogireddy
-2.Mahathi Popuri
-3.Neelima Lakshmisetti
-4.Yasasri
-5.Lahari
+- Sarvani Gogireddy  
+- Mahathi Popuri  
+- Neelima Lakshisetty
+- Lahari
+- Yasa sri
 
 
 # Future Enhancements
@@ -157,9 +156,3 @@ analysis. It highlights how advanced NLP models like BERT outperform
 classical methods while also showing the importance of baseline approaches
 such as Logistic Regression.
 
-##Contribution:
--Sarvani
--Mahathi
--Neelima
--Lahari
--Yashasri
