@@ -1,4 +1,4 @@
-# SmartWatch Sentiment Analyser ⌚🤖
+# SmartWatch Sentiment Analyser
 
 A Generative AI and Machine Learning based project that analyzes smartwatch
 product reviews and predicts sentiment (Positive / Neutral / Negative).
@@ -12,7 +12,7 @@ Manually analyzing these reviews to understand user sentiment is difficult
 and inefficient. This project automates sentiment analysis using Natural
 Language Processing (NLP) techniques and machine learning models.
 
-# 🎯 Objectives
+# Objectives
 
 To classify smartwatch reviews into sentiment categories
 
@@ -22,8 +22,8 @@ To demonstrate the use of Generative AI in text understanding
 
 To build a simple web application for real-time prediction
 
-# 🧠 Models Used
-1️⃣ Logistic Regression (Classical ML)
+# Models Used
+# 1 Logistic Regression (Classical ML)
 
 Used with TF-IDF / Count Vectorizer
 
@@ -31,7 +31,7 @@ Fast, lightweight, and interpretable
 
 Serves as a baseline model
 
-# 2️⃣ BERT (Transformer-based GenAI Model)
+# 2️ BERT (Transformer-based GenAI Model)
 
 Bidirectional Encoder Representations from Transformers
 
@@ -43,14 +43,14 @@ Example Model:
 
 nlptown/bert-base-multilingual-uncased-sentiment
 
-# ✅ Model Note
+# Model Note
 
 Pretrained BERT model files are not stored in this repository due to GitHub
 file size limitations. The model is automatically downloaded from
 HuggingFace at runtime.
 The Logistic Regression model is trained using the provided dataset.
 
-⚙️ Tech Stack
+# Tech Stack
 
 Python
 
@@ -78,7 +78,7 @@ SmartWatch-Sentiment-Analyser
 ├── .gitignore
 └── README.md
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 Step 1: Clone the repository
 git clone https://github.com/sarvani10/SmartWatch-Sentiment-Analyser.git
 cd SmartWatch-Sentiment-Analyser
@@ -92,7 +92,7 @@ python app.py
 Step 4: Open in browser
 http://127.0.0.1:5000/
 
-📊 Dataset
+# Dataset
 
 Dataset contains smartwatch review text and sentiment labels
 
@@ -104,7 +104,7 @@ Training Logistic Regression
 
 Testing BERT predictions
 
-📝 Features
+# Features
 
 Dual-model sentiment analysis
 
@@ -116,7 +116,7 @@ Web-based interface using Flask
 
 Clean and modular project structure
 
-✅ Workflow Overview
+# Workflow Overview
 
 User enters a smartwatch review
 
@@ -130,7 +130,7 @@ BERT model
 
 Predicted sentiment is displayed
 
-👨‍👩‍👧‍👦 Contributors
+# Contributors
 
 Sarvani Gogireddy
 Mahathi Popuri
@@ -139,7 +139,7 @@ Yasasri
 Lahari
 
 
-🔮 Future Enhancements
+# Future Enhancements
 
 Fine-tune BERT on smartwatch-specific data
 
@@ -149,7 +149,7 @@ Deploy on cloud (AWS / GCP / Heroku)
 
 Support multilingual reviews
 
-✅ Conclusion
+# Conclusion
 
 This project demonstrates the effectiveness of combining traditional
 machine learning and Generative AI transformer models for sentiment
@@ -158,8 +158,8 @@ classical methods while also showing the importance of baseline approaches
 such as Logistic Regression.
 
 ##Contribution:
--Neelima
 -Sarvani
 -Mahathi
+-Neelima
 -Lahari
 -Yashasri
