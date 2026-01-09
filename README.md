@@ -132,11 +132,11 @@ Predicted sentiment is displayed
 
 # Contributors
 
-Sarvani Gogireddy
-Mahathi Popuri
-Neelima Lakshmisetti
-Yasasri
-Lahari
+1.Sarvani Gogireddy
+2.Mahathi Popuri
+3.Neelima Lakshmisetti
+4.Yasasri
+5.Lahari
 
 
 # Future Enhancements
